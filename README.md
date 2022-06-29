@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I’m John, a Gothenburg-based, front-end developer & designer from Sweden. Self taught and been developing on the web for over 10 years now. I like to resolve design problems, create smart user interface and imagine useful interaction.
 <!--
 **ghavamzadeh/ghavamzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
