@@ -1,4 +1,5 @@
-Im John Ghavamzadeh, a Gothenburg-based, front-end developer & designer from Sweden. Self taught and been developing on the web for over 10 years now. I like to resolve design problems, create smart user interface and imagine useful interaction.
+### Im John, a Gothenburg-based, front-end developer & designer from Sweden.
+Self taught and been developing on the web for over 10 years now. I like to resolve design problems, create smart user interface and imagine useful interaction.
 
 ------------
 
