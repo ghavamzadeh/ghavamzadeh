@@ -1,8 +1,6 @@
 ### Im John, a Gothenburg-based, front-end developer & designer from Sweden.
 Self taught and been developing on the web for over 10 years. I like to resolve design problems, create smart user interface and imagine useful interaction.
 
-------------
-
 
 #### Experience
 - **Jiroy** - Co-founder & Designer
