@@ -4,7 +4,7 @@ Self taught and been developing on the web for over 10 years. I like to resolve 
 
 #### Experience
 - **Jiroy** - Co-founder & Designer
-2021 - present
+2020 - present
 
 - **Precio Fishbone** - Front-end Developer & Designer
 2019 - 2020
