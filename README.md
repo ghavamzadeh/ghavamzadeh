@@ -3,8 +3,10 @@ Self taught and been developing on the web for over 10 years. I like to resolve 
 
 
 #### Experience
+- **John.ist** - Co-founder
+
 - **Leasingoo** - Co-founder & Developer
-2022 - present
+2022 - 2024
 
 - **Jiroy** - Co-founder & Designer
 2020 - 2022
